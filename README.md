@@ -36,6 +36,31 @@ SOFTWARE.
 This package is used for encoding and decoding texts with more safety.
 It is simple to use and implement.
 
+## Import
+1. Download Manually
+	1. Download from [GitHub](https://github.com/Attachment-Studios/Encoder)
+	2. Only keep module folder:
+		- `easy_encoder`
+	3. Import Commands From Python:
+		- ```python
+		import easy_encoder
+		from easy_encoder.encoder import Encoder
+		encoder = Encoder() # use encoder
+		```
+3. Use `Git`:
+	1. Use in CLI:
+		- gh repo clone Attachment-Studios/Encoder
+		- git@github.com:Attachment-Studios/Encoder.git
+		- [https://github.com/Attachment-Studios/Encoder.git](https://github.com/Attachment-Studios/Encoder.git)
+	2. Only keep module folder:
+		- easy_encoder
+	3. Import Commands From Python:
+		- ```python
+		import easy_encoder
+		from easy_encoder.encoder import Encoder
+		encoder = Encoder() # use encoder
+		```
+
 ## How To Use
 1. Import the library.
 	> This step can be done manually as wished.
